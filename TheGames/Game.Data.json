@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Name": "Quantum Conquest: AI Odyssey",
+    "Developer": "Infinity Nexus",
+    "PublisherId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "The Legend of Andromeda: Breath of the Cosmos",
+    "Developer": "AI Nebula",
+    "PublisherId": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Red Dwarf Revelation: AI Genesis",
+    "Developer": "Galactic Pulse AI",
+    "PublisherId": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Orbit Odyssey: AI Frontier",
+    "Developer": "Orbit Dynamics AI",
+    "PublisherId": 4
+  },
+  {
+    "Id": 5,
+    "Name": "Asteroid Architect: AI Expedition",
+    "Developer": "Nova Silica AI",
+    "PublisherId": 5
+  },
+  {
+    "Id": 6,
+    "Name": "Overdrive Orion: AI Revolution",
+    "Developer": "Comet Cascade AI",
+    "PublisherId": 6
+  },
+  {
+    "Id": 7,
+    "Name": "The Ghost Whisperer 3: AI Horizon",
+    "Developer": "Plasma Pioneer AI",
+    "PublisherId": 7
+  },
+  {
+    "Id": 8,
+    "Name": "Gravity Gambit: AI Velocity",
+    "Developer": "Galactic Pulse North",
+    "PublisherId": 3
+  },
+  {
+    "Id": 9,
+    "Name": "Counter Striker: Galactic Genesis",
+    "Developer": "Starlight Synapse AI",
+    "PublisherId": 8
+  },
+  {
+    "Id": 10,
+    "Name": "Apex Ascension: AI Evolution",
+    "Developer": "Respawn Nexus",
+    "PublisherId": 9
+  },
+  {
+    "Id": 11,
+    "Name": "Soccer Smash 2024: AI Sports",
+    "Developer": "Electron Eclipse Sports",
+    "PublisherId": 9
+  },
+  {
+    "Id": 12,
+    "Name": "Football Nebula: AI Gridiron",
+    "Developer": "Electron Eclipse Gridiron",
+    "PublisherId": 9
+  },
+  {
+    "Id": 13,
+    "Name": "Battlefield Beyond: AI Warfare",
+    "Developer": "DICE Nexus",
+    "PublisherId": 9
+  },
+  {
+    "Id": 14,
+    "Name": "Cybernetic Cosmos: AI Utopia",
+    "Developer": "Plasma Pioneer AI",
+    "PublisherId": 7
+  },
+  {
+    "Id": 15,
+    "Name": "Rocket Resonance: AI Velocity",
+    "Developer": "Psyonix Nexus",
+    "PublisherId": 4
+  }
+]
